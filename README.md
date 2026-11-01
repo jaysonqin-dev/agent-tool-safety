@@ -1,5 +1,7 @@
 # agent-tool-safety
 
+[![tests](https://github.com/jaysonqin-dev/agent-tool-safety/actions/workflows/tests.yml/badge.svg)](https://github.com/jaysonqin-dev/agent-tool-safety/actions/workflows/tests.yml)
+
 AI agents that can write to team systems such as spreadsheets and trackers tend to
 fail in boring, costly ways: malformed or orphaned records left behind by
 trial and error, silent overwrites, and actions nobody approved. This repository is
